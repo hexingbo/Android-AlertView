@@ -9,7 +9,7 @@
 
 demo是用Module方式依赖，你也可以使用gradle 依赖:
 ```java
-   compile 'com.bigkoo:alertview:1.0.3'
+   implementation 'com.github.hexingbo:Android-AlertView:v1.01'
 ```
 
 ### config in java code
